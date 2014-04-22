@@ -1,4 +1,4 @@
-JavaScript-Basics-Tutorial-17---Conditional-Statements
+JavaScript Basics Tutorial 17 - Conditional Statements
 ======================================================
 
-Code for the following video tutorial 
+Code for the following video tutorial http://youtu.be/pvr5FMk_1Ng
